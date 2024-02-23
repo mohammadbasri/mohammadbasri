@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Mohammad Ahmed Basri
-#### AI Researcher - Healthcare at Public Health Agency of Canada | Graduate Researcher at UWaterloo | Ex-roject Manager at Vector Institute for AI | Entrepreneur
+#### AI Researcher - Healthcare at Public Health Agency of Canada | Graduate Researcher at UWaterloo | Ex-project Manager at Vector Institute for AI | Entrepreneur
 
 With a solid foundation in artificial intelligence (AI) and machine learning (ML) across various sectors, I excel in product development and strategic planning for AI solutions, with a special emphasis on healthcare. My expertise encompasses translating complex challenges into actionable AI-driven strategies and products, enhancing efficiency, improving outcomes, and generating value.
 
